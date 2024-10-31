@@ -1,4 +1,4 @@
-[[![MasterHead](https://img.freepik.com/premium-vector/man-is-working-laptop-with-word-code-it_1013341-184761.jpg?semt=ais_hybrid)
+![MasterHead](https://img.freepik.com/premium-vector/man-is-working-laptop-with-word-code-it_1013341-184761.jpg?semt=ais_hybrid)
 <h1 align="center">Hi 👋, I'm MAQA</h1>
 <h3 align="center">A passionate frontend developer from Azerbaıjan</h3>
 
