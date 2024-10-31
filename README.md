@@ -1,4 +1,4 @@
-![MasterHead](https://icon2.cleanpng.com/20230821/zbg/transparent-international-programmers-day-programmer-computer-1711085051582.webp)
+[![MasterHead](https://img.freepik.com/premium-vector/man-is-working-laptop-with-word-code-it_1013341-184761.jpg?semt=ais_hybrid)
 <h1 align="center">Hi 👋, I'm MAQA</h1>
 <h3 align="center">A passionate frontend developer from Azerbaıjan</h3>
 
@@ -14,5 +14,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maqa55&show_icons=true&locale=en" alt="maqa55" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maqa55&" alt="maqa55" /></p>
-
-
