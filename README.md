@@ -1,7 +1,7 @@
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+Hanzelkaaragac&edge_flat=false" align="right"/></a> -->
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<!-- <img src=""/></p> -->
+</p>
 
 <!-- <h2 align="center"> -->
 <!-- </h2>  -->
@@ -19,7 +19,7 @@
 ### </path></svg></a> About Me ✅ </h2>
 -->
 
-<img align="center" width="400" src="https://4kwallpapers.com/images/walls/thumbs_2t/13640.png" />
+<img align="center" width="400" src="https://raw.githubusercontent.com/tarunrajput/tarunrajput/main/profile.gif" />
 
 
 <!-- %7C -> alttaki yaziya | eklememize yariyor -->
