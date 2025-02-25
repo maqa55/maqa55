@@ -1,7 +1,7 @@
 <!-- <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=hugo.svg&icon_color=%23FFFFFF&title=Profile+Views+Hanzelkaaragac&edge_flat=false" align="right"/></a> -->
 <br>
 <p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/>
-<img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/senior-front-end-developer-openings-1.gif" align="right"/></p>
+<img src=""/></p>
 
 <!-- <h2 align="center"> -->
 <!-- </h2>  -->
